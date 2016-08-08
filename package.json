@@ -1,0 +1,32 @@
+{
+  "name": "gobble-sass-file",
+  "version": "1.0.0",
+  "description": "file trasformer gobble plugin for sass to css",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martypdx/gobble-sass-file.git"
+  },
+  "keywords": [
+    "gobble",
+    "gobble-plugin",
+    "sass",
+    "file"
+  ],
+  "author": "Marty Nelson @martypdx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martypdx/gobble-sass-file/issues"
+  },
+  "homepage": "https://github.com/martypdx/gobble-sass-file#readme",
+  "devDependencies": {
+    "gobble": "^0.11.3",
+    "gobble-test": "^0.1.1"
+  },
+  "dependencies": {
+    "node-sass": "^3.8.0"
+  }
+}
